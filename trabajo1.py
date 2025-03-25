@@ -6,7 +6,7 @@ elif z > 5:
 elif z > 6:
  	print("¡tampoco voy a imprimir!") #esta sentencia no se ejecuta
 else:
- 	pritnt("!yo tampoco!") #esta sentencia no se ejecutara
+ 	pritnt("!tu tampoco vas a imprimir!") #esta sentencia no se ejecutara
 
 
 	
